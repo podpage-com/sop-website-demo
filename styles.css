@@ -522,7 +522,8 @@ body {
     align-items: center;
     gap: 0.5rem;
     font-size: 0.95rem;
-    color: var(--text-light);
+    color: var(--white);
+    opacity: 0.95;
 }
 
 .course-track {
